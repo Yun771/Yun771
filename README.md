@@ -55,7 +55,7 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
 
 <p style="text-align: center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yun771&theme=tokyonight&hide_border=false&locale=es_MX" alt="yun771" /></p>
 
-<h3 style="text-align: center"> ✍️ Random Dev Quote </h3>
+<h3 style="text-align: center"> ✍️ Frase del dia:</h3>
 <p style="text-align: center">
   <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
