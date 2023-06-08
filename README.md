@@ -51,14 +51,14 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
   </a> 
 </p>
 
-<p style="text-align: center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun771&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" alt="yun771" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun771&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" alt="yun771" /></p>
 
-<p style="text-align: center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yun771&theme=tokyonight&hide_border=false&locale=es_MX" alt="yun771" /></p>
+<p align="center""><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yun771&theme=tokyonight&hide_border=false&locale=es_MX" alt="yun771" /></p>
 
-<h3 style="text-align: center"> ✍️ Frase del dia:</h3>
-<p style="text-align: center">
+<h3 align="center"> ✍️ Frase del dia:</h3>
+<p align="center">
   <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-<p style="text-align: center">¡Gracias por visitar mi perfil! 😊</p>
-<p style="text-align: center"> <img alt="visited" src="https://visitcount.itsvg.in/api?label=Visitas&id=Yun771&icon=5&color=6"> </p>
+<p align="center">¡Gracias por visitar mi perfil! 😊</p>
+<p align="center"> <img alt="visited" src="https://visitcount.itsvg.in/api?label=Visitas&id=Yun771&icon=5&color=6"> </p>
