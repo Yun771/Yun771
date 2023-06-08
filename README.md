@@ -1,4 +1,4 @@
-<h2 style="text-align: center"> ¡Hola! 👋 Soy Ever Yuneri</h2>
+<h2 align="center"> ¡Hola! 👋 Soy Ever Yuneri</h2>
 <h4 style="text-align: justify">Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta
 construir aplicaciones web y móviles, además de explorar nuevas tecnologías para crear soluciones innovadoras.
 </h4>
