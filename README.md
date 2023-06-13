@@ -3,7 +3,7 @@
 construir aplicaciones web y móviles, además de explorar nuevas tecnologías para crear soluciones innovadoras.
 </h4>
 
-- 🌱 Estoy aprendiendo **Angular, Spring Boot and Pl/SQL**
+- 🌱 Estoy aprendiendo **Angular, Spring Boot y Pl/SQL**
 
 - 💬 Pregúntame sobre **Flutter, Dart y Expressjs**
 
