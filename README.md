@@ -25,7 +25,7 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
 <h3 style="text-align: center"> Lenguajes y Herramientas:</h3>
 <p style="text-align: left"> 
   <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
