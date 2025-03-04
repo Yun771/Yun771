@@ -152,4 +152,3 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil! 😊</p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
