@@ -152,4 +152,4 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil! 😊</p>
-<p align="center"> <img alt="visited" src="https://visitcount.itsvg.in/api?label=Visitas&id=Yun771&icon=5&color=6"> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
