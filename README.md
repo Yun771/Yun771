@@ -152,3 +152,5 @@ construir aplicaciones web y móviles, además de explorar nuevas tecnologías p
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil! 😊</p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Yun771)
